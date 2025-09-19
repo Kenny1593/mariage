@@ -51,7 +51,7 @@ insert into inviteTable (id,nom, idPlace, idInvitation) VALUES
 (5,'Andry sy Amboara',14,4),
 (6,'Tonton Douou mivady + 1',4,5),
 (7,'Tonton Herick',4,6),
-(8,'Tonton Rossinah 3 mianaka',4,7),
+(8,'Tonton Rossynah 3 mianaka',4,7),
 (9,'Tatie Aline',4,8),
 (10,'Tonton Patrick mivady',17,9),
 (11,'Tonton Solo mivady',17,10),
