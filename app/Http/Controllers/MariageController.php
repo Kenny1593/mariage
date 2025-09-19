@@ -13,7 +13,9 @@ class MariageController extends Controller
 
     public function vue(Request $request){
         $numero = $request->input('numero');
-        $invites = InviteTable::where('idinvitation', $numero)->get();
+        $invites = InviteTable::where('idinvitation', $numero)
+                                ->orderBy('id', 'asc')
+                                ->get();
         return view('vue', ['invites' => $invites]);
     }
 }
