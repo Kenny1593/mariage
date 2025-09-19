@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class InviteTable extends Model
 {
     use HasFactory;
-    protected $table = 'invite_table'; // nom personnalisé
+    protected $table = 'invitetable'; // nom personnalisé
     public $timestamps = false;
 
     protected $fillable = [
