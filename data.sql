@@ -117,4 +117,37 @@ insert into inviteTable (id,nom, idPlace, idInvitation) VALUES
 (69,'Nenifara Romaine',23,64);
 
 
+insert into invitetable (id,nom, idPlace, idInvitation) VALUES
+(70,'Tonton Dame mivady',2,65),
+(71,'Nirina',16,65),
+(72,'Tolotra mivady',16,66),
+(73,'Nantenaina mivady',16,67),
+(74,'Haja sy Salohy',2,68),
+(75,'Vani',16,68),
+(76,'Ihajaina',15,68),
+(77,'Tonton Rajaonson sy Toutou',7,69),
+(78,'Nirina sy ny vady aman-janany',2,70),
+(79,'Liva mivady',2,71),
+(80,'Dadatoa Zeze',7,72),
+(81,'Mamitiana mivady',22,73),
+(82,'Zeze mivady',22,74),
+(83,'Hasina mivady',22,75),
+(84,'Dadadara Jacques',7,76),
+(85,'Billy mivady',22,77),
+(86,'Tatamo mivady',22,78),
+(87,'Jacquot mivady',22,79),
+(88,'Dadatoa Mily',7,80),
+(89,'Rivo mivady',10,81),
+(90,'Gala',10,82),
+(91,'Lalaina mivady',10,83),
+(92,'Johary mivady',10,84),
+(93,'Tonton nirina mivady',10,85),
+(94,'Dadabe sy Bebe',1,86),
+(95,'Dadafara Thierry',10,87),
+(96,'Nenintoa Lila',8,88),
+(97,'Nenintoa Lala',8,89),
+(98,'Dadatoa Yves mivady',8,90),
+(99,'Dadafara Alain',8,91),
+(100,'Nenifara Labarre',8,92),
+(101,'Tonton Yvon',7,93);
 
