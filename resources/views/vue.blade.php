@@ -64,7 +64,7 @@
     
     <div class="plan">
       <p>Voici le plan des tables :</p>
-      <img src=" {{ asset('storage/2025-09-17-152018.png') }}" alt="Plan des tables">
+      <img src=" {{ asset('2025-09-17-152018.png') }}" alt="Plan des tables">
     </div>
   </div>
 
