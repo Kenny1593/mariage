@@ -108,12 +108,12 @@ insert into inviteTable (id,nom, idPlace, idInvitation) VALUES
 (60,'Nambinina mivady',6,55),
 (61,'Nirina mivady',6,56),
 (62,'Lanto mivady',23,57),
-(63,'Tonton Joacyn mivady',23,58),
+(63,'Tonton Joachim mivady',23,58),
 (64,'Céline',23,59),
 (65,'Tonton Tiana mivady',23,60),
 (66,'Famille Rakotondrazery 2',23,61),
 (67,'Dadafara Leridy',23,62),
-(68,'Nenintoa Zily',23,63),
+(68,'Nenintoa Julienne',23,63),
 (69,'Nenifara Romaine',23,64);
 
 
