@@ -150,7 +150,6 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (99,'Dadafara Alain',8,91),
 (100,'Nenifara Labarre',8,92),
 (101,'Tonton Yvon',7,93);
-insert into invitetable (id,nom, idPlace, idInvitation) VALUES (121,'Dadabe sy Bebe',1,113);
 
 insert into invite_table (id,nom, idPlace, idInvitation) VALUES
 (102,'Mme Cecilia',11,94),
