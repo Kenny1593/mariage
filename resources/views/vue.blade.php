@@ -79,7 +79,7 @@
     </div>
   </div>
 
-  <a href="/" class="btn-retour">⬅ Retour</a>
+  <a href="/" class="btn-retour">Retour</a>
 
 </body>
 </html>
