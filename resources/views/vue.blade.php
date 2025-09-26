@@ -47,6 +47,17 @@
       border: 1px solid #ccc;
       margin-top: 20px;
     }
+    .btn-retour {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #d4af37;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
 
     /* Import police romantique */
     @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
@@ -67,6 +78,8 @@
       <img src=" {{ asset('2025-09-17-152018.png') }}" alt="Plan des tables">
     </div>
   </div>
+
+  <a href="/" class="btn-retour">⬅ Retour</a>
 
 </body>
 </html>
