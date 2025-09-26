@@ -100,7 +100,7 @@ insert into inviteTable (id,nom, idPlace, idInvitation) VALUES
 (52,'Tonton Edmond mivady',20,49),
 (53,'Tonton Hugues mivady',20,50), 
 (54,'Haingo',9,50),
-(55,'Maeva, Sedra, Pisou, Bouta',3,50),
+(55,'Maeva, Sedra, Sandratra, Sambatra',3,50), 
 (56,'Tatie Zosy',20,51),
 (57,'Mamitiana mivady',6,52),
 (58,'RaJohn mivady',6,53),
@@ -112,9 +112,9 @@ insert into inviteTable (id,nom, idPlace, idInvitation) VALUES
 (64,'Céline',23,59),
 (65,'Tonton Tiana mivady',23,60),
 (66,'Famille Rakotondrazery 2',23,61),
-(67,'Dadafara Leridy',23,62),
-(68,'Nenintoa Julienne',23,63),
-(69,'Nenifara Romaine',23,64);
+(67,'Dadafara Leridy',8,62), 
+(68,'Nenintoa Julienne',8,63), 
+(69,'Nenifara Romaine',8,64); 
 
 
 insert into invitetable (id,nom, idPlace, idInvitation) VALUES
@@ -131,7 +131,7 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (80,'Dadatoa Zeze',7,72),
 (81,'Mamitiana mivady',22,73),
 (82,'Zeze mivady',22,74),
-(83,'Hasina mivady',22,75),
+(83,'Hasina mivady',10,75), 
 (84,'Dadadara Jacques',7,76),
 (85,'Billy mivady',22,77),
 (86,'Tatamo mivady',22,78),
@@ -141,7 +141,7 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (90,'Gala',10,82),
 (91,'Lalaina mivady',10,83),
 (92,'Johary mivady',10,84),
-(93,'Tonton nirina mivady',10,85),
+(93,'Tonton nirina mivady',7,85), 
 (94,'Dadabe sy Bebe',1,86),
 (95,'Dadafara Thierry',10,87),
 (96,'Nenintoa Lila',8,88),
@@ -150,4 +150,25 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (99,'Dadafara Alain',8,91),
 (100,'Nenifara Labarre',8,92),
 (101,'Tonton Yvon',7,93);
+insert into invitetable (id,nom, idPlace, idInvitation) VALUES (121,'Dadabe sy Bebe',1,113);
 
+insert into invite_table (id,nom, idPlace, idInvitation) VALUES
+(102,'Mme Cecilia',11,94),
+(103,'Mr Bali',11,95),
+(104,'Pdt Luc',11,96),
+(105,'Tonton Gerard mivady',11,97),
+(106,'Maman Claudie 2',11,98),
+(107,'Claudie mivady',11,99),
+(108,'Tonton',11,100),
+(109,'FTKAM 2',21,101),
+(110,'Rindra',21,102),
+(111,'Nanah, Toavina, Tinah',21,103),
+(112,'Fiderana sy Fitiavana',21,104),
+(113,'Sarobidy sy Ravo',21,105),
+(114,'Fifaliana',21,106),
+(115,'Nanjie sy Aina',16,107),
+(116,'Onja sy Mahery',18,108),
+(117,'Toky sy Antsa',18,109),
+(118,'Ravaka sy Sarobidy',18,110),
+(119,'Stephan, Larah, Rotsy',18,111),
+(120,'Manoa sy Anjara',18,112);
