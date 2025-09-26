@@ -103,10 +103,10 @@ insert into inviteTable (id,nom, idPlace, idInvitation) VALUES
 (55,'Maeva, Sedra, Sandratra, Sambatra',3,50), 
 (56,'Tatie Zosy',20,51),
 (57,'Mamitiana mivady',6,52),
-(58,'RaJohn mivady',6,53),
-(59,'Rado mivady',6,54),
-(60,'Nambinina mivady',6,55),
-(61,'Nirina mivady',6,56),
+(58,'RaJohn mivady',6,53), --56
+(59,'Rado mivady',6,54), --53
+(60,'Nambinina mivady',6,55), --54
+(61,'Nirina mivady',6,56), --55
 (62,'Lanto mivady',23,57),
 (63,'Tonton Joachim mivady',23,58),
 (64,'Céline',23,59),
@@ -134,8 +134,8 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (83,'Hasina mivady',10,75), 
 (84,'Dadafara Jacques mivady',7,76), 
 (85,'Billy mivady',22,77),
-(86,'Tatamo mivady',22,78),
-(87,'Jacquot mivady',22,79),
+(86,'Tatamo mivady',22,78), --79
+(87,'Jacquot mivady',22,79), --78
 (88,'Dadatoa Mily',7,80),
 (89,'Rivo mivady',10,81),
 (90,'Gala',10,82),
