@@ -132,7 +132,7 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (81,'Mamitiana mivady',22,73),
 (82,'Zeze mivady',22,74),
 (83,'Hasina mivady',10,75), 
-(84,'Dadadara Jacques',7,76),
+(84,'Dadafara Jacques mivady',7,76), 
 (85,'Billy mivady',22,77),
 (86,'Tatamo mivady',22,78),
 (87,'Jacquot mivady',22,79),
@@ -147,7 +147,7 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (96,'Nenintoa Lila',8,88),
 (97,'Nenintoa Lala',8,89),
 (98,'Dadatoa Yves mivady',8,90),
-(99,'Dadafara Alain',8,91),
+(99,'Dadafara Alain mivady',8,91), 
 (100,'Nenifara Labarre',8,92),
 (101,'Tonton Yvon',7,93);
 
