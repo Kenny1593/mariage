@@ -151,7 +151,7 @@ insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (100,'Nenifara Labarre',8,92),
 (101,'Tonton Yvon',7,93);
 
-insert into invite_table (id,nom, idPlace, idInvitation) VALUES
+insert into invitetable (id,nom, idPlace, idInvitation) VALUES
 (102,'Mme Cecilia',11,94),
 (103,'Mr Bali',11,95),
 (104,'Pdt Luc',11,96),
